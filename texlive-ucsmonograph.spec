@@ -1,6 +1,6 @@
 Name:		texlive-ucsmonograph
 Version:	52698
-Release:	1
+Release:	2
 Summary:	Typesetting academic documents from the University of Caxias do Sul
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucsmonograph
