@@ -3,7 +3,7 @@ Version:	52698
 Release:	2
 Summary:	Typesetting academic documents from the University of Caxias do Sul
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucsmonograph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ucsmonograph
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ucsmonograph.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ucsmonograph.doc.r%{version}.tar.xz
